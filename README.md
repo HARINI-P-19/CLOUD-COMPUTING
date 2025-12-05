@@ -13,6 +13,7 @@ MENTOR: NEELA SANTHOSH
 
 #DESCRIPTION 
 #TASK 1 OUTPUT
+#CLOUD STORAGE SETUP
 
 <img width="2880" height="1616" alt="Image" src="https://github.com/user-attachments/assets/e6138827-8e21-438c-a3f2-a0e8a81baeac" />
 
@@ -23,6 +24,7 @@ MENTOR: NEELA SANTHOSH
 
 
 #TASK 2 OUTPUT
+#CLOUD MONITORING AND ALERTS
 
 <img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/9a01b5ef-90b0-426c-9fe1-540f763683af" />
 
@@ -34,6 +36,7 @@ MENTOR: NEELA SANTHOSH
 
 
 #TASK 3 OUTPUT
+#MULTI-CLOUD ARCHITECTURE
 
 AWS AND AZURE MULTI CLOUD 
 
@@ -45,3 +48,4 @@ AWS AND AZURE MULTI CLOUD
 
 
 #TASK 4 OUTPUT
+#CLOUD SECURITY IMPLEMENTATION
