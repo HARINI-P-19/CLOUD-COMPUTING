@@ -35,3 +35,12 @@ MENTOR: NEELA SANTHOSH
 
 
 #TASK 3 OUTPUT
+
+
+AWS AND AZURE MULTI CLOUD 
+
+#DOCUMENTATION FILE IS UPLOADED AS PDF
+
+<img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/863afb4c-ca05-4ac2-8c69-1673b94aecdb" />
+
+<img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/b4ec466a-1ebb-446f-a70d-16f80ec61b19" />
