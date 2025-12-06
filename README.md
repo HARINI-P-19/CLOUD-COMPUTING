@@ -49,3 +49,18 @@ AWS AND AZURE MULTI CLOUD
 
 #TASK 4 OUTPUT
 #CLOUD SECURITY IMPLEMENTATION
+<img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/2aebf29d-ce07-4062-a773-562040ea482a" />
+
+<img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/f385632f-17f9-405a-8644-979094f6ec83" />
+
+<img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/a8a49f32-e4aa-4de5-95b2-84cab2d5d7fa" />
+#policy file is uploaded as PDF
+<img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/36cc0580-59d7-4d0f-8316-08aa5f7f580e" />
+
+<img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/bffbad1f-a6ea-47fe-ae9f-851e80ac8ee7" />
+
+<img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/8745bfdc-421f-44ec-9c37-93d5c8f5e549" />
+
+<img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/3e5428c6-e257-49c6-a660-52283a5ab38e" />
+
+**FINAL REPORT IS UPLOADED AS PDF **
